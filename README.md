@@ -109,8 +109,9 @@ void loop() {
 ---
 To upload
 ---
-<img width="578" height="1280" alt="image" src="https://github.com/user-attachments/assets/3dbc9e1b-18fe-456f-9912-c78b534abeac" />
 
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b007a055-902c-4a3c-8d23-8160d8e4ea7b" />
 
 # Observation
 
